@@ -20,6 +20,8 @@ Upon entering the room and issuing the "GOOD MORNING" voice command (Laptop’s 
 
 
 o Microphone
+
+
 o Infrared Sensor
 
 
@@ -27,5 +29,9 @@ o Infrared Sensor
 
 
 o Servo motor
+
+
 o Light Bulb
+
+
 o Speaker
